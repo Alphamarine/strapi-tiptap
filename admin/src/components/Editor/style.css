@@ -1,0 +1,7 @@
+.ProseMirror:focus-visible {
+  outline: initial;
+}
+
+.ProseMirror em {
+  font-style: italic;
+}
