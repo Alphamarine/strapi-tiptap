@@ -1,27 +1,25 @@
 {
   "name": "tiptap",
-  "version": "0.0.0",
-  "description": "This is the description of the plugin.",
+  "version": "1.0.0",
+  "description": "tiptap for strapi.",
   "strapi": {
     "name": "tiptap",
-    "description": "Description of Tiptap plugin",
+    "description": "tiptap for strapi",
     "kind": "plugin",
     "displayName": "Tiptap"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-build-classic": "^36.0.1",
-    "@ckeditor/ckeditor5-react": "^5.0.6",
-    "@tiptap/extension-link": "^2.0.0-beta.218",
-    "@tiptap/pm": "^2.0.0-beta.218",
-    "@tiptap/react": "^2.0.0-beta.218",
-    "@tiptap/starter-kit": "^2.0.0-beta.218"
+    "@tiptap/extension-link": "^2.0.1",
+    "@tiptap/pm": "^2.0.1",
+    "@tiptap/react": "^2.0.1",
+    "@tiptap/starter-kit": "^2.0.1"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Gabriele Leonardi"
   },
   "maintainers": [
     {
-      "name": "A Strapi developer"
+      "name": "Gabriele Leonardi"
     }
   ],
   "engines": {
